@@ -23,46 +23,6 @@ A simple Tic Tac Toe game implemented using HTML, CSS, and JavaScript.
 - Game state and winner detection.
 
 ## How to Play
--Open Live Link in your preferred web browser.
-
--Two players take turns clicking on the empty cells to make their move.
-
--The game will automatically detect a winner or declare a draw.
-
--Play again or reset the game using the New Game button.
-
-
-Certainly! Below is a basic template for a README file for a Tic Tac Toe project using HTML, CSS, and JavaScript:
-
-markdown
-Copy code
-# Tic Tac Toe Game
-
-A simple Tic Tac Toe game implemented using HTML, CSS, and JavaScript.
-
-## Table of Contents
-
-- [Demo](#demo)
-- [Features](#features)
-- [How to Play](#how-to-play)
-- [Game Rules](#game-rules)
-- [Customization](#customization)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Demo
-
-Include a link to the live demo of your Tic Tac Toe game.
-
-[Live Demo](#)
-
-## Features
-
-- Play Tic Tac Toe against another player.
-- Simple and intuitive user interface.
-- Game state and winner detection.
-
-## How to Play
 
 - Open index.html in your preferred web browser.
 
